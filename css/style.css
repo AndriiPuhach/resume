@@ -90,7 +90,7 @@ body {
 
 /* my work expirience */
 .my-work-expirience-company {
-  color: #fb6d3a;
+  color: #800000;
 }
 .my-work-expirience-position {
   font-style: normal;
@@ -132,7 +132,7 @@ body {
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
-  color: #fb6d3a;
+  color: #800000;
   margin: 0 10px 10px 0;
 }
 
@@ -202,7 +202,7 @@ body {
 }
 
 .tech-skills-item {
-  color: #fb6d3a;
+  color: #800000;
 }
 .tech-skills-item-text {
   font-style: normal;
@@ -217,7 +217,7 @@ body {
 }
 
 .soft-skills-item {
-  color: #fb6d3a;
+  color: #800000;
 }
 .soft-skills-item-text {
   font-style: normal;
